@@ -9,3 +9,6 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.btn-glow {
+  box-shadow: 0 0 30px white;
+}
